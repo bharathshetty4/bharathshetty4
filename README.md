@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+More about myself:
 - Currently working as a Backend Developer for a SaaS platform [Intersight](https://intersight.com/) at Cisco Systems.
 - Golang enthusiastic.
 - Trekker and an amateur Photographer. 
