@@ -4,7 +4,7 @@ More about myself:
 - Currently working as a Backend Developer for a SaaS platform [Intersight](https://intersight.com/) at Cisco Systems.
 - Golang enthusiastic.
 - Trekker and an amateur Photographer. 
-- You can find me at [LinkedIn](https://www.linkedin.com/in/bharathshetty4/) | [Stack-Overflow](https://stackoverflow.com/users/4665710/bharath-kumar) | [Instagram](https://www.instagram.com/bharath.shetty__/) | [Gmail](mailto:shettybharath4@gmail.com)
+- You can find me on [LinkedIn](https://www.linkedin.com/in/bharathshetty4/) | [Stack-Overflow](https://stackoverflow.com/users/4665710/bharath-kumar) | [Instagram](https://www.instagram.com/bharath.shetty__/) | [Gmail](mailto:shettybharath4@gmail.com)
 
 
 
