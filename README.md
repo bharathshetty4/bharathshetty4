@@ -1,10 +1,13 @@
 ### Hi there 👋
 
 More about myself:
-- Currently working as a Backend Developer for a SaaS platform [Intersight](https://intersight.com/) at Cisco Systems.
+- Currently working as a Backend Developer for a SaaS platform [Intersight](https://intersight.com/) at Cisco Systems (@cisco).
+- Lives in Bangalore, India.
+- Worked at @hewlettpackard.
 - Golang enthusiastic.
+- 1M+ pulls on [Docker Hub](https://hub.docker.com/u/bharathshetty4)
 - Trekker and an amateur Photographer. 
-- You can find me on [LinkedIn](https://www.linkedin.com/in/bharathshetty4/) | [Stack-Overflow](https://stackoverflow.com/users/4665710/bharath-kumar) | [Instagram](https://www.instagram.com/bharath.shetty__/) | [Gmail](mailto:shettybharath4@gmail.com)
+- You can find me on [LinkedIn](https://www.linkedin.com/in/bharathshetty4/) | [Stack-Overflow](https://stackoverflow.com/users/4665710/bharath-kumar) | [Gmail](mailto:shettybharath4@gmail.com) | [500px](https://500px.com/p/bharathshetty4?view=photos)
 
 
 
