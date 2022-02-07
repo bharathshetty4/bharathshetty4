@@ -24,4 +24,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathshetty4&theme=light&layout=compact&align=right&width=40%&hide_border=true)](https://github.com/bharathshetty4/github-readme-stats) ![Github stats](https://github-readme-stats.vercel.app/api?username=bharathshetty4&layout=compact&count_private=true&hide=issues&hide_border=true)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathshetty4&theme=light&layout=compact&align=right&width=40%&hide_border=true)](https://github.com/bharathshetty4/github-readme-stats) 
+ 
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=bharathshetty4&layout=compact&count_private=true&hide=issues&hide_border=true)
+
+
+![](https://komarev.com/ghpvc/?username=bharathshetty4&label=PROFILE+VIEWS)
