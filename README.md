@@ -7,9 +7,26 @@ More about myself:
 - Golang enthusiastic.
 - 1M+ pulls on [Docker Hub](https://hub.docker.com/u/bharathshetty4)
 - Trekker and an amateur Photographer. 
-- You can find me on [LinkedIn](https://www.linkedin.com/in/bharathshetty4/) | [Stack-Overflow](https://stackoverflow.com/users/4665710/bharath-kumar) | [Gmail](mailto:shettybharath4@gmail.com) | [500px](https://500px.com/p/bharathshetty4?view=photos) | [LeetCode](https://leetcode.com/bharathshetty4/)
+- You can find me on,
+<p align="left"> &nbsp &nbsp
+  <a href="https://www.linkedin.com/in/bharathshetty4/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="bharath kumar" height="30" width="40" /></a>
+  <a href="https://instagram.com/bharath.shetty__/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="bharath.shetty__" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/4665710/bharath-kumar" target="blank"><img align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"
+      alt="bharath.shetty__" height="30" width="40" /></a>
+ <a href="https://leetcode.com/bharathshetty4/" target="blank"><img align="center"
+      src="https://user-images.githubusercontent.com/32040901/79929570-197c2480-8414-11ea-9358-c92a53916a7f.png"
+      alt="https://leetcode.com/bharathshetty4/" height="30" width="40" /></a>
+ <a href="mailto:shettybharath4@gmail.com" target="blank"><img align="center"
+      src="https://logodix.com/logo/4406.png"
+      alt="shettybharath4@gmail.com" height="30" width="40" /></a> 
+</p>
 
-
+<br/>
 
 
 
