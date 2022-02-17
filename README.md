@@ -11,19 +11,19 @@ More about myself:
 <p align="left"> &nbsp &nbsp &nbsp
   <a href="https://www.linkedin.com/in/bharathshetty4/" target="blank"><img align="center"
       src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=blue&color=white"
-      alt="bharath kumar" height="40" width="100" /></a>
+      alt="bharath kumar" height="40" width="120" /></a>
   <a href="https://stackoverflow.com/users/4665710/bharath-kumar" target="blank"><img align="center"
       src="https://img.shields.io/badge/StackOverflow-%23E4405F.svg?&style=flat-square&logo=stackoverflow&color=white"
-      alt="bharath.shetty__" height="40" width="100" /></a>
+      alt="bharath.shetty__" height="40" width="120" /></a>
  <a href="https://leetcode.com/bharathshetty4/" target="blank"><img align="center"
       src="https://img.shields.io/badge/Leetcode-%23E4405F.svg?&style=flat-square&logo=leetcode&color=white"
-      alt="https://leetcode.com/bharathshetty4/" height="40" width="100" /></a>
+      alt="https://leetcode.com/bharathshetty4/" height="40" width="120" /></a>
   <a href="https://instagram.com/bharath.shetty__/" target="blank"><img align="center"
       src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&color=white"
-      alt="bharath.shetty__" height="40" width="100" /></a>
+      alt="bharath.shetty__" height="40" width="120" /></a>
  <a href="mailto:shettybharath4@gmail.com" target="blank"><img align="center"
       src="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=flat-square&logo=gmail&color=white"
-      alt="shettybharath4@gmail.com" height="40" width="100" /></a> 
+      alt="shettybharath4@gmail.com" height="40" width="120" /></a> 
 </p>
 
 <br/>
