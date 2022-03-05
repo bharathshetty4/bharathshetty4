@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 More about myself:
-- Currently working as a Backend Developer for a SaaS platform [Intersight](https://intersight.com/) at Cisco Systems (@cisco).
+- Backend Developer at Cisco Systems (@cisco). Currently working on SaaS application [Intersight](https://intersight.com/).
 - Lives in Bangalore, India.
 - Worked at @hewlettpackard.
 - Golang enthusiastic.
