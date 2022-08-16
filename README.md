@@ -2,9 +2,9 @@
 
 More about myself:
 
-- Backend Developer at Cisco Systems ([@cisco](https://github.com/cisco)). Currently working on a enterprise SaaS application [Intersight](https://intersight.com/).
-- Lives in Bangalore, India.
-- Worked at @hewlettpackard.
+- Backend Developer at Delivery Hero SE ([@deliveryhero](https://github.com/deliveryhero)).
+- Lives in Berlin, Germany.
+- Previously worked at [Cisco](https://github.com/cisco), [Hewlett Packard Enterprise](https://github.com/hewlettpackard)
 - Golang enthusiastic.
 - 1M+ pulls on [Docker Hub](https://hub.docker.com/u/bharathshetty4)
 - Trekker and an amateur Photographer. 
