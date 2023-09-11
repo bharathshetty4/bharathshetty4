@@ -3,7 +3,7 @@
 More about myself:
 
 - Backend Developer at Delivery Hero SE ([@deliveryhero](https://github.com/deliveryhero)).
-- Lives in Berlin, Germany.
+- Currently living in Berlin, Germany.
 - Previously worked at [Cisco](https://github.com/cisco), [Hewlett Packard Enterprise](https://github.com/hewlettpackard)
 - Golang enthusiastic.
 - 4M+ pulls on [Docker Hub](https://hub.docker.com/u/bharathshetty4)
